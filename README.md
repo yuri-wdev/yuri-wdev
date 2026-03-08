@@ -6,7 +6,7 @@ Oi 👋
   
 </p>
 
-<div align=start style="">
+<div style="display:inline-block" align=start style="">
 
 <div align=start>
 
@@ -25,15 +25,12 @@ Oi 👋
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 
-</div>
 
-<div>
 
 ### Databases
 
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 
-</div>
 
 </div>
