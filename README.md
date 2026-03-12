@@ -28,6 +28,10 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 |:---:|:---:|
 | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> |
 
+---
+
+### 
+
 <div>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent"/>
