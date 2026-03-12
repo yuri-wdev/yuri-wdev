@@ -26,7 +26,7 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 
 | MySQL | MongoDB |
 |:---:|:---:|
-| <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> |
+| <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> | <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> |
 
 ---
 
