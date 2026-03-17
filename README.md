@@ -34,9 +34,9 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 
 <div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent"/>
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent"/>
 
-<img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent"/>
+<img align="right"  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent"/>
 
 </div>
 
