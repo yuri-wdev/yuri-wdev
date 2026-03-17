@@ -6,38 +6,29 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 
 ---
 
-### Stack
+### Tecnologias:
 
-| C# | JavaScript | Python | HTML | CSS | TypeScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> |
+<p align="center">
 
----
-
-### Frameworks
-
-| Angular | Django | .NET |
-|:---:|:---:|:---:|
-| <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/> | <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/> |
-
----
-
-### Databases
-
-| MySQL | MongoDB |
-|:---:|:---:|
-| <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> | <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> |
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</p>
 
 ---
 
-### 
-
-<div>
-
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent"/>
-
-<img align="right"  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent"/>
-
+<div align="center">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent"/>
 </div>
 
 <br clear="both">
