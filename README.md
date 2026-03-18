@@ -27,12 +27,10 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 ---
 
 <div align="center">
-  <img align="left" width="34%"
-    src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent&card_height=120" />
-  <img align="left" width="30%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent&card_height=120" />
-  <img align="left" width="28%"
-    src="./languages-card.svg" />
+  <img align="left" width="45%"
+    src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent" />
+  <img align="right" width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent" />
 </div>
 <br clear="both">
 
