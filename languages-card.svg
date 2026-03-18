@@ -1,0 +1,9 @@
+<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="120" rx="6" fill="transparent" stroke="#e1e4e8" stroke-width="1"/>
+  <text x="16" y="32" font-family="Segoe UI, sans-serif" font-size="14" font-weight="600" fill="#58a6ff">🌐 Languages</text>
+  <line x1="16" y1="44" x2="284" y2="44" stroke="#e1e4e8" stroke-width="0.5"/>
+  <text x="16" y="68" font-family="Segoe UI, sans-serif" font-size="13" fill="#c9d1d9">English</text>
+  <text x="240" y="68" font-family="Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#58a6ff">B2</text>
+  <text x="16" y="94" font-family="Segoe UI, sans-serif" font-size="13" fill="#c9d1d9">Spanish</text>
+  <text x="240" y="94" font-family="Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#58a6ff">A2</text>
+</svg>
