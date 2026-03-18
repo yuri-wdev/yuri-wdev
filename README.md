@@ -36,7 +36,7 @@ Me chamo Yuri, sou um estudante de ciência da computação e aspirante a desenv
 
 ---
 
-### Vamos nos conectar?
+### Contato:
 
 <p align="left">
 <a href="mailto:yuriaragao0511@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
