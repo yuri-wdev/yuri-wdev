@@ -24,18 +24,7 @@ Me chamo Yuri, sou um estudante do BI C&T e aspirante a desenvolvedor web full-s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </p>
 
----
 
-<div align="center">
-  <img align="left" width="45%"
-    src="https://github-readme-stats.vercel.app/api?username=yuri-wdev&show_icons=true&theme=transparent" />
-  <img align="right" width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-wdev&layout=compact&langs_count=8&theme=transparent" />
-</div>
-<br clear="both">
-
-
----
 
 ### Contato:
 
